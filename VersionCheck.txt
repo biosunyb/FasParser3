@@ -1,2 +1,0 @@
-CurrentVersion	FasParser 2.10.0 (20191230)
-SetupProgram	https://github.com/Sun-Yanbo/FasParser/releases/download/V2.10.0/FasParser2.10.0_setup_full.zip
